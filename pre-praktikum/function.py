@@ -13,9 +13,9 @@ def sapa_nama(nama):
     print(f"Halo, {nama}!")
 
 # Pemanggilan Function
-sapa_nama("diky")
-sapa_nama("diky")
-sapa_nama("diky")
+sapa_nama("wahyu")
+sapa_nama("wahyu")
+sapa_nama("wahyu")
 
 # function dengan lebih dari 1 parameter
 def luas_segitiga(alas, tinggi):
@@ -55,7 +55,7 @@ def student(firstname, lastname ='Mark', standard ='Fifth'):
     print(firstname, lastname, 'studies in', standard, 'Standard')
 
 # memanggil fungsi dengan 1 parameter
-student("diky")
+student("wahyu")
 # pemanggilan function, dengan 3 argumen
 student('John', 'Gates', 'Seventh')
 
